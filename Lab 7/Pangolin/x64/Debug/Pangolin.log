@@ -1,0 +1,6 @@
+﻿  pangolin.cpp
+C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 7\Pangolin\pangolin.cpp(185,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 7\Pangolin\pangolin.cpp(186,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 7\Pangolin\pangolin.cpp(245,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 7\Pangolin\pangolin.cpp(246,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Pangolin.vcxproj -> C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 7\Pangolin\x64\Debug\Pangolin.exe
